@@ -97,3 +97,10 @@
 .text-center {
 	text-align: center;
 }
+
+.field-validation-error {
+	display: inline-block;
+	margin: 0.5rem 0;
+	font-size: 12px;
+	color: red;
+}
